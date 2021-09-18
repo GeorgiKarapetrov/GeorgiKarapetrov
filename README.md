@@ -52,18 +52,19 @@
 </p> -->
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=georgikarapetrov&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=georgikarapetrov&theme=radical&show_icons=true"  display=block width=100% height=auto alt="1"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgikarapetrov&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
 
 
-<!-- <table>
+<table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgikarapetrov&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
    </tr>
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=georgikarapetrov&bg_color=073642&color=859900&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></td>
+</table>
+<!--       <td><img src="https://activity-graph.herokuapp.com/graph?username=georgikarapetrov&bg_color=073642&color=859900&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></td>
   </td>
   </tr>
 </table> -->
